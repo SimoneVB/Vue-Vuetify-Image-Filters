@@ -14,7 +14,7 @@ But it should be mentioned that these filters require simple HTML+CSS. So, they 
 
 ## The post
 Read the full article here https://medium.com/@simonescigliuzzi/x-1e14697bb18a
-1
+
 ## Getting Started
 ### Install
 ```
