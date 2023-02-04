@@ -15,22 +15,23 @@ But it should be mentioned that these filters require simple HTML+CSS. So, they 
 ## The post
 Read the full article here https://medium.com/@simonescigliuzzi/x-1e14697bb18a
 1
-## Project setup
+## Getting Started
+### Install
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile with hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile and minify for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lint and fix files
 ```
 npm run lint
 ```
