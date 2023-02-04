@@ -9,10 +9,12 @@ In addition to applying filters, I was asked to come up with something to preven
 For demonstration purposes, here I will create a simple Vue3/Vuetify application with the functionality described above.
 But it should be mentioned that these filters require simple HTML+CSS. So, they can be used in any Web/Mobile App.
 
-Read the full article here https://medium.com/@simonescigliuzzi/x-1e14697bb18a
-
+## This is the result
 ![screen](https://github.com/SimoneVB/Vue-Vuetify-Image-Filters/blob/main/result.gif?raw=true)
 
+## The post
+Read the full article here https://medium.com/@simonescigliuzzi/x-1e14697bb18a
+1
 ## Project setup
 ```
 npm install
