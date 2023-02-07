@@ -1,4 +1,4 @@
-# Vue/Vuetify ImageFilters
+# Vue/Vuetify Image Filters
 A demo Vue/Vuetify APP to apply Image effects using CSS filters
 
 ![cover](https://miro.medium.com/max/720/1*M0BncfU1BlAvXX_FOoXn3g.webp)
